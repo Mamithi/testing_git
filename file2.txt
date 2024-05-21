@@ -3,5 +3,3 @@ This is a new file
 I am working on a new file.
 
 New people
-
-Delete world
