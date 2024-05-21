@@ -1,5 +1,7 @@
 This is a new file
 
-I am working on a new file
+I am working on a new file.
 
-I may delete this file later
+New people
+
+Delete world
